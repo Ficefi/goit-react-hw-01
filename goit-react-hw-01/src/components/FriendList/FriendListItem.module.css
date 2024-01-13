@@ -1,0 +1,23 @@
+.item{
+    width: 108px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top: 10px;
+    margin-right: 15px;
+}
+
+.name{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.status{
+    font-size: 16px;
+    font-weight: 500;
+}
+.status.true{
+    color: #1f1;
+}
+.status.status.false{
+    color: #f11;
+}
